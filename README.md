@@ -1,1 +1,1 @@
-# my-dem0-repo
+# my-demo-repo
